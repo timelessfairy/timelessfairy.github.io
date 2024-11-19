@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://timelessfairy.github.io/timelessfairy_github_io_zp527_13.txt
+Sitemap: https://timelessfairy.github.io/timelessfairy_github_io_zp527_18.txt
+Sitemap: https://timelessfairy.github.io/timelessfairy_github_io_zp527_22.txt
+Sitemap: https://timelessfairy.github.io/timelessfairy_github_io_zp527_27.txt
+Sitemap: https://timelessfairy.github.io/timelessfairy_github_io_zp527_31.txt
+Sitemap: https://timelessfairy.github.io/timelessfairy_github_io_zp527_7.txt
